@@ -13,7 +13,7 @@ With F12 tools, all you need to do is right-click on a page element, select "Ins
 
 #### Moving an element on the page
 
-In the example below, we want to reorder the side navigation so that the **"Dom explorer"** menu item is at the top of the list. We right-click the **Dom explorer** menu item and select "Inspect element" to open this element in the F12 tools. The selected element is highlighted in blue. To move it, we click and drag it's parent list item `<li>` to the top of the unordered list `<ul>`. You can see the order of the navigation menu list items on the page automatically update to represent this change. 
+In the example below, we want to reorder the side navigation so that the **Dom explorer** menu item is at the top of the list. We right-click the **Dom explorer** menu item and select "Inspect element" to open this element in the F12 tools. The selected element is highlighted in blue. To move it, we click and drag it's parent list item `<li>` to the top of the unordered list `<ul>`. You can see the order of the navigation menu list items on the page automatically update to represent this change. 
 
 ![Edge DOM Explorer Computed](/jekylltests/media/Edge_DomExplorer_dragdrop.gif) 
 
