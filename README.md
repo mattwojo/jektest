@@ -33,7 +33,7 @@ F12 tools enable you to experiment with:
 
 The **DOM Explorer** tool enables you to [select an element on the page containing text](https://github.com/MicrosoftEdge/MicrosoftEdge-Documentation/tree/master/f12-devtools-guide/dom-explorer#selecting-an-element) and view it's current `font-size` in the "Computed" tab.
 
-![Edge DOM Explorer Computed](../media/jekylltests/Edge_DomExplorer_computed.gif) 
+![Edge DOM Explorer Computed](./media/jekylltests/Edge_DomExplorer_computed.gif) 
 
 Click the drop-down arrow next to the `font-size` to see how the `font-size` is determined, including the .css file path and line #. 
 
