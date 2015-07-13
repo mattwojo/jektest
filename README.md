@@ -7,6 +7,8 @@ The Microsoft Edge browser F12 Tools are not just for web developers. Several F1
 
 Responsive design aims to provide optimal viewing and interaction experience--easy reading and navigation with a minimum of resizing, panning, and scrolling--across a wide range of devices (from large desktop computer monitors to tablets or mobile phone screens, and soon to include Halolens viewers!). Many of the excellent design software available simply does not provide the ability to test designs in a responsive environment. The Microsoft Edge F12 DevTools offer designers help with making wise responsive design choices through the ability to experiment with changes to page elements while changing viewport sizes, assigning relative size values, and exploring box-model layouts... all directly from the browser window.  
 
+![Edge DOM Explorer Computed](/jekylltests/media/Edge_WebNotes.gif) 
+
 ### Making changes to page elements with the DOM Explorer 
 
 With F12 tools, all you need to do is right-click on a page element, select "Inspect element," and the tools will open revealing where that page element is coded into the DOM (Document Object Model) using HTML (left panel) and the styles associated with that element using CSS (right panel). 
