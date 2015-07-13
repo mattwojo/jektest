@@ -6,7 +6,7 @@ The Microsoft Edge browser F12 Tools are not just for web developers. Several F1
 
 ## Design in a responsive environment
 
-Responsive design aims to provide optimal viewing and interaction experience--easy reading and navigation with a minimum of resizing, panning, and scrolling--across a wide range of devices (from large desktop computer monitors to tablets or mobile phone screens, and soon to include Halolens viewers!). Many of the excellent design software available simply does not provide the ability to test designs in a responsive environment. The Microsoft Edge F12 DevTools offer designers help with making wise responsive design choices through the ability to experiment with changes to page elements while changing viewport sizes, assigning relative size values, and exploring box-model layouts... all directly from the browser window.  
+Responsive design aims to provide optimal viewing and interaction experience--easy reading and navigation with a minimum of resizing, panning, and scrolling--across a wide range of devices (from large desktop computer monitors to tablets or mobile phone screens, and soon to include Halolens viewers!). Many of the excellent design software available simply does not provide the ability to test designs in a responsive environment. The Microsoft Edge F12 DevTools offer designers help with making wise responsive design choices through the ability to experiment with changes to page elements while adjusting viewport sizes, assigning relative size values, and exploring box-model layouts... all directly from the browser window.  
 
 ### Making changes to page elements with the DOM Explorer 
 
