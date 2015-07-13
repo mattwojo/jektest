@@ -14,7 +14,7 @@ With F12 tools, all you need to do is right-click on a page element, select "Ins
 #### Moving an element on the page
 In the example below, we want to reorder the side navigation so that the **"Dom explorer"** menu item is at the top of the list. We right-click the **Dom explorer** menu item and select "Inspect element" to open this element in the F12 tools. The selected element is highlighted in blue. To move it, we click and drag it's parent list item <li> to the top of the unordered list <ul>. You can see the order of the navigation menu list items on the page automatically update to represent this change. 
 
-![Edge DOM Explorer Computed](../media/Edge_DomExplorer_dragdrop.gif) 
+![Edge DOM Explorer Computed](../jekylltests/media/Edge_DomExplorer_dragdrop.gif) 
 
 ### Relative sizes
 On the web, size is no longer only measured in absolute sizes with [pixels(px), picas(pc), millimeters(mm), centimeters(cm), or inches(in)](http://www.w3.org/TR/css3-values/#absolute-lengths). While all of those measurements will work in a browser, designs will now often need to dynamically respond to the size of their environment. [**Relative sizes**](http://www.w3.org/TR/css3-values/#relative-lengths), which specify a size relative to another size, are far more common. 
@@ -33,7 +33,7 @@ F12 tools enable you to experiment with:
 
 The **DOM Explorer** tool enables you to [select an element on the page containing text](https://github.com/MicrosoftEdge/MicrosoftEdge-Documentation/tree/master/f12-devtools-guide/dom-explorer#selecting-an-element) and view it's current `font-size` in the "Computed" tab.
 
-![Edge DOM Explorer Computed](../media/Edge_DomExplorer_computed.gif) 
+![Edge DOM Explorer Computed](../media/jekylltests/Edge_DomExplorer_computed.gif) 
 
 Click the drop-down arrow next to the `font-size` to see how the `font-size` is determined, including the .css file path and line #. 
 
